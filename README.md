@@ -54,7 +54,7 @@ Steps vary for each device so do ur research based on ur device on xda labs and 
 4. Boot into recovery mode and wipe the data
 5. Install the custom rom.
 
-IF u want to install Lineage os the follow the official instructions avaialable on the [Lineage os website](https://lineageos.org/).  
+IF u want to install Lineage os then follow the official instructions avaialable on the [Lineage os website](https://lineageos.org/).  
 
 
 
