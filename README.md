@@ -5,9 +5,10 @@
 
 ### Research done before degoogling
 
-Searched for the alternatives of google apps like google drive, google maps, google keep, Gmail etc.
+Searched for the alternatives of google apps like google drive, google maps, google keep, Gmail etc.  
+
 And with the help of FOSS, opensource projects and many privacy, security respecting projects and companies i have found decent alternatives to the above 
-applications.
+applications.  
 
 ### Alternatives for google services.
 
@@ -47,13 +48,14 @@ applications.
 
 Steps vary for each device so do ur research based on ur device on xda labs and find out which roms are available.
 
-1.Check if ur phone is bootloader unlocked or not, if it isn't then unlock the bootloader
-2.Install a custom recovery to ur phone like twrp,lineage recovery,orangewolf etc
-3.Download a custom rom preferably Lineage os
-4.Boot into recovery mode and wipe the data
-5.Install the custom rom.\
+1. Check if ur phone is bootloader unlocked or not, if it isn't then unlock the bootloader
+2. Install a custom recovery to ur phone like twrp,lineage recovery,orangewolf etc
+3. Download a custom rom preferably Lineage os
+4. Boot into recovery mode and wipe the data
+5. Install the custom rom.
 
-IF u want to install Lineage os the follow the official instructions avaialable on the [Lineage os website](https://lineageos.org/).\
+IF u want to install Lineage os the follow the official instructions avaialable on the [Lineage os website](https://lineageos.org/).  
+
 
 
 
